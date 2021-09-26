@@ -2,7 +2,7 @@ package main
 
 import (
   "os"
-	coinbasepro "github.com/preichenberger/go-coinbasepro/v2"
+  coinbasepro "github.com/preichenberger/go-coinbasepro/v2"
 )
 
 func main() {
